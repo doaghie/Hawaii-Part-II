@@ -1,2 +1,4 @@
 # A Brief Introduction
-<div align="center">![album cover](https://i1.sndcdn.com/artworks-000602170645-fe2its-t500x500.jpg)
+<p align="center">
+![album cover](https://i1.sndcdn.com/artworks-000602170645-fe2its-t500x500.jpg)
+</p>
