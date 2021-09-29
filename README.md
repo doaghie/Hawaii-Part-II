@@ -9,9 +9,9 @@
 <p align="center">  
 The album is highly experimental in nature and is somewhat of a departure from the band's usual music. Despite having been released in 2012, Hawaii: Part II is still quite popular and there is still a somewhat active fanbase for Miracle Musical and Tally Hall despite them having been on hiatus since 2019, with Tally Hall's last release being the single Just A Friend in 2019, and Miracle Musical's last release being the single Variations on a Cloud in 2012. However, it is speculated that the band will return as Joe Hawley's website and the band's twitter has been more active as of late.
 </p>
-<p align="center">
+
 # The Content of Hawaii: Part II
-</p>
+
 
 
   
