@@ -15,15 +15,16 @@ The album is highly experimental in nature and is somewhat of a departure from t
 The songs on Hawaii: Part II all have very unique songs and leitmotifs. The first song on the album, Introduction to the Snow is very lighthearted with a joyful piano accompanied by sleighbells which are reminicsient of the holiday season and the "snow" mentioned in the title. Another song by the name of The Mind Electric features a first half that avid listeners will recognize to be the second half reversed. This song sounds darker than Introduction to the Snow and features heavy vocal distortion. The album doesn't have a confirmed story but fans of the project have pieced together the lyrics of the songs. The most widely accepted theory is that of a man who has visited Hawaii and fallen in love with a girl. After being framed for her murder, he pleads insane and is subjected to electroshock therapy and actually goes insane. He is then lured out into the ocean by "sirens" and drowns to death.
   </p>  
 Fans think that the story is related to the love story, framing, and drowning of the main character because of lyrics like:
-
-> Drift aloft <br> 
-> In some effortless place <br> 
-> Bound by delicate dread <br> 
-> Saving no face <br> 
-> Air dissolves <br>
-> Where one game is designed <br> 
-> Something's elegant find <br> 
-> So the program goes <br>
+<blockquote>
+Drift aloft <br> 
+In some effortless place <br> 
+Bound by delicate dread <br> 
+Saving no face <br> 
+Air dissolves <br>
+Where one game is designed <br> 
+Something's elegant find <br> 
+So the program goes <br>
+  </blockquote>
 These lyrics are interpreted to be the beginning of the protagonist's love story and describe the uncontrollable feeling of love and how it can make you feel as if you're floating on air, or in an "effortless place".
 Lyrics like:
 > I was in the middle ground <br>
