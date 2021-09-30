@@ -11,7 +11,8 @@ The album is highly experimental in nature and is somewhat of a departure from t
 </p>
 
 # The Content of Hawaii: Part II
-
+<p align="center">
+The songs on Hawaii: Part II all have very unique songs and leitmotifs. The first song on the album, Introduction to the Snow is very lighthearted with a joyful piano accompanied by sleighbells which are reminicsient of the holiday season and the "snow" mentioned in the title. Another song by the name of The Mind Electric features a first half that avid listeners will recognize to be the second half reversed. This song sounds darker than Introduction to the Snow and features heavy vocal distortion. The album doesn't have a confirmed story but fans of the project have pieced together the lyrics of the songs. The most widely accepted theory is that of a man who has visited Hawaii and fallen in love with a girl. After being framed for her murder, he pleads insane and is subjected to electroshock therapy and
 
 
   
