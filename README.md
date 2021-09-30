@@ -16,7 +16,7 @@ The songs on Hawaii: Part II all have very unique songs and leitmotifs. The firs
   </p>  
 Fans think that the story is related to the love story, framing, and drowning of the main character because of lyrics like:
 
-> Drift aloft
+> <br /> Drift aloft
 > In some effortless place
 > Bound by delicate dread
 > Saving no face
