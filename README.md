@@ -27,9 +27,12 @@ So the program goes <br>
   </blockquote>
 These lyrics are interpreted to be the beginning of the protagonist's love story and describe the uncontrollable feeling of love and how it can make you feel as if you're floating on air, or in an "effortless place".
 Lyrics like:
-> I was in the middle ground <br>
-> Looking to find the fountain of infinite mirror <br>
-> Tree falling, no one would hear <br> 
-> Shadow of nobody there <br>
-> Murders of murderers living in fear of it <br> 
+<blockquotes>
+I was in the middle ground <br>
+Looking to find the fountain of infinite mirror <br>
+Tree falling, no one would hear <br> 
+Shadow of nobody there <br>
+Murders of murderers living in fear of it <br> 
+  </blockquote>  
 Describe the point of view of an outsider who witnesses the murder of the protagonist's love interest but 
+
