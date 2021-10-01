@@ -55,6 +55,6 @@ Until it's time <br>
 can both be interpreted as an end of the protagonist's journey and as an end to the album and it's beauty, but the line "until it's time" implies that you will return to the album later on.
   <h1> The Next and Last Journey </h1>
 <p align="center">
-<img width="500" height="500" src="https://static.wikia.nocookie.net/tallyhall/images/5/53/Variations_on_a_cloud.PNG/revision/latest?cb=20150728023730">
+<img width="1000" height="1000" src="https://static.wikia.nocookie.net/tallyhall/images/5/53/Variations_on_a_cloud.PNG/revision/latest?cb=20150728023730">
 </p>
 Miracle Musical's last performance was the single Variations on a Cloud released alongside the preorder of Hawaii: Part II. It is a tribute to the events that occurred on September 11, 2001. It was recently removed from streaming services but brought back on the 20th anniversary of the tragedy.
