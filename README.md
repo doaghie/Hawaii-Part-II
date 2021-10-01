@@ -58,4 +58,5 @@ can both be interpreted as an end of the protagonist's journey and as an end to 
 Miracle Musical's last performance was the single Variations on a Cloud released alongside the preorder of Hawaii: Part II. It is a tribute to the events that occurred on September 11, 2001. It was recently removed from streaming services but brought back on the 20th anniversary of the tragedy.
   <h3> Resources and links to related topics and the band itself </h3>
   <link> https://whalejoey.com/about </link> A link to Joe Hawley's website <br>
-  <link
+  <link> https://twitter.com/tallyhall?lang=en </link> A link to Tally Hall's twitter account <br>
+  <link> http://www.hawaiipartii.com </link> A link to the official Miracle Musical website
