@@ -2,6 +2,8 @@
 ![hawaii](https://images.genius.com/0db3d24067b706ac90f672a5003f196c.749x749x1.jpg)
 
 Miracle Musical is a side project created by Joe Hawley of the Michigan based band Tally Hall. Hawley collaborated on this side project with fellow Tally Hall members Rob Cantor, Zubin Sedghi, and Ross Federman. Miracle Musical has only ever released one album, that album being Hawaii: Part II. 
+
+
 ![musical](https://i1.sndcdn.com/artworks-KeIrqN8S1adhzVm4-fLdypw-t500x500.jpg)
 
 
