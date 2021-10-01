@@ -60,3 +60,4 @@ Miracle Musical's last performance was the single Variations on a Cloud released
   (https://whalejoey.com/about) A link to Joe Hawley's website <br>
  (https://twitter.com/tallyhall?lang=en) A link to Tally Hall's twitter account <br>
   (http://www.hawaiipartii.com) A link to the official Miracle Musical website
+  <link>https://whalejoey.com/about A link to Joe Hawley's website <br>
