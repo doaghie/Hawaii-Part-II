@@ -57,3 +57,4 @@ can both be interpreted as an end of the protagonist's journey and as an end to 
 <p align="center">
 <img width="500" height="500" src="https://static.wikia.nocookie.net/tallyhall/images/5/53/Variations_on_a_cloud.PNG/revision/latest?cb=20150728023730">
 </p>
+Miracle Musical's last performance was the single Variations on a Cloud released alongside the preorder of Hawaii: Part II. It is a tribute to the events that occurred on September 11, 2001. It was recently removed from streaming services but brought back on the 20th anniversary of the tragedy.
