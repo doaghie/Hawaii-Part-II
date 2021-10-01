@@ -21,8 +21,10 @@ Fans think that the story is related to the love story, framing, and drowning of
 > Where one game is designed  
 > Something's elegant find  
 > So the program goes  
-These lyrics are interpreted to be the beginning of the protagonist's love story and describe the uncontrollable feeling of love and how it can make you feel as if you're floating on air, or in an "effortless place".
+
+### These lyrics are interpreted to be the beginning of the protagonist's love story and describe the uncontrollable feeling of love and how it can make you feel as if you're floating on air, or in an "effortless place".
 Lyrics like:
+
 <blockquote>
 I was in the middle ground <br>
 Looking to find the fountain of infinite mirror <br>
