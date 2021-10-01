@@ -6,7 +6,7 @@
 <p align="center">
 <img width="500" height="500" src="https://i1.sndcdn.com/artworks-KeIrqN8S1adhzVm4-fLdypw-t500x500.jpg">
 </p>
-The album is highly experimental in nature and is somewhat of a departure from the band's usual music. Despite having been released in 2012, Hawaii: Part II is still quite popular and there is still a somewhat active fanbase for Miracle Musical and Tally Hall despite them having been on hiatus since 2019, with Tally Hall's last release being the single Just A Friend in 2019, and Miracle Musical's last release being the single Variations on a Cloud in 2012. However, it is speculated that the band will return as Joe Hawley's website (<link>https://whalejoey.com/about </link>) and the band's twitter (<link>https://twitter.com/tallyhall?lang=en </link>) has been more active as of late.
+The album is highly experimental in nature and is somewhat of a departure from the band's usual music. Despite having been released in 2012, Hawaii: Part II is still quite popular and there is still a somewhat active fanbase for Miracle Musical and Tally Hall despite them having been on hiatus since 2019, with Tally Hall's last release being the single Just A Friend in 2019, and Miracle Musical's last release being the single Variations on a Cloud in 2012. However, it is speculated that the band will return as Joe Hawley's website and the band's twitter has been more active as of late.
 
   <h1> The Content of Hawaii: Part II </h1>
 <p align="center">
@@ -56,3 +56,6 @@ can both be interpreted as an end of the protagonist's journey and as an end to 
 <img width="1000" height="1000" src="https://static.wikia.nocookie.net/tallyhall/images/5/53/Variations_on_a_cloud.PNG/revision/latest?cb=20150728023730">
 </p>
 Miracle Musical's last performance was the single Variations on a Cloud released alongside the preorder of Hawaii: Part II. It is a tribute to the events that occurred on September 11, 2001. It was recently removed from streaming services but brought back on the 20th anniversary of the tragedy.
+  <h3> Resources and links to related topics and the band itself </h3>
+  <link> https://whalejoey.com/about </link> A link to Joe Hawley's website <br>
+  <link
