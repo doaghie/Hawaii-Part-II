@@ -34,6 +34,22 @@ Tree falling, no one would hear <br>
 Shadow of nobody there <br>
 Murders of murderers living in fear of it <br> 
 </blockquote>  
-Describe the point of view of an outsider who witnesses the murder of the protagonist's love interest but 
-The song
-Finally, the lyrics of the song Dream Sweet 
+Describe the point of view of an outsider who witnesses the murder of the protagonist's love interest but still thinks that the protagonist is guilty.
+The lyrics to the song Stranded Lullaby convey the message that the protagonist drowned as the lyrics describe the feeling of memories of your life flashing by.
+<blockquote>
+Aimless thoughts and papers blown around <br>
+A million moments meant remembered rest in deep dark sound <br>
+Game the mess <br>
+  </blockquote>
+Finally, the song Dream Sweet in Sea Major has similar leitmotifs as Introduction to the Snow and acts as somewhat of a cyclical end to the album as the lyrics:
+<blockquote>
+Bye, hi <br>
+Sigh, Hawaii <br>
+We never meant to part <br>
+Sublime, thy art <br>
+One light <br>
+Higher than the sun <br>
+Invisible to some <br>
+Until it's time <br>
+  </blockquote>
+can both be interpreted as an end of the protagonist's journey and as an end to the album and it's beauty, but the line "until it's time" implies that you will return to the album later on.
