@@ -53,3 +53,7 @@ Invisible to some <br>
 Until it's time <br>
   </blockquote>
 can both be interpreted as an end of the protagonist's journey and as an end to the album and it's beauty, but the line "until it's time" implies that you will return to the album later on.
+  <h1> The Next and Last Journey </h1>
+<p align="center">
+<img width="500" height="500" src="https://static.wikia.nocookie.net/tallyhall/images/5/53/Variations_on_a_cloud.PNG/revision/latest?cb=20150728023730">
+</p>
